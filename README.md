@@ -456,9 +456,15 @@ Here are some political insights based on the leaked email summaries obtained fr
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=frankwxu/digital-forensics-lab&type=Date)](https://star-history.com/#frankwxu/digital-forensics-lab&Date)
+<!-- [![Star History Chart](https://api.star-history.com/svg?repos=frankwxu/digital-forensics-lab&type=Date)](https://star-history.com/#frankwxu/digital-forensics-lab&Date) -->
 
-<!-- <iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/?repos=frankwxu%2Fdigital-forensics-lab&type=date&legend=top-left" frameBorder="0"></iframe> -->
+<a href="https://www.star-history.com/?repos=frankwxu%2Fdigital-forensics-lab&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=frankwxu/digital-forensics-lab&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=frankwxu/digital-forensics-lab&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=frankwxu/digital-forensics-lab&type=date&legend=top-left" />
+ </picture>
+</a>
 
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ksb44j1gmfoc4ht18prk" alt="trackgit-views" />
