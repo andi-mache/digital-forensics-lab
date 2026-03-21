@@ -27,7 +27,6 @@ Faculty members are eligible for a complimentary desk copy. To request the PDF, 
 ## Table of Contents (new release Oct 15, 2024: Eufy investigations)
 
 - Basic Computer Skills for Digital Forensics
-
   - [Number Systems](/Basic_Computer_Skills_for_Forensics/0_Number_Systems.pptx) (add Python code for data conversion 1/2023)
   - [PC Introduction](/Basic_Computer_Skills_for_Forensics/1_PC_Introduction.pptx)
   - [Windows Command Line Tutorial](/Basic_Computer_Skills_for_Forensics/2_Win_command_line_tutorial.pptx)
@@ -35,7 +34,6 @@ Faculty members are eligible for a complimentary desk copy. To request the PDF, 
   - [Advanced Linux Command Line Tutorial](/Basic_Computer_Skills_for_Forensics/4_Advanced_linux_command_line.pptx)
 
 - Computer and Digital Forensics (updated on Oct. 2021)
-
   - [Introduction to Digital Forensics](/Basic_Computer_Skills_for_Forensics/5_Introduction_to_digital_forensics.pptx)
   - [Sleuth Kit Tutorial](/Basic_Computer_Skills_for_Forensics/6_Sleuth_Kit_Tutorial.pptx)
   - [USB Image Acquisition](/Basic_Computer_Skills_for_Forensics/7_USB_Image_Acquisition.pptx)
@@ -46,7 +44,6 @@ Faculty members are eligible for a complimentary desk copy. To request the PDF, 
   - [Forensic Report Template](/Basic_Computer_Skills_for_Forensics/Forensic_Report_Template.pdf)
 
 - Basic Networking Skills for Digital Forensics (added 3/17/2023. Use Paython Scapy and netfilterqueue libraries.)
-
   - [HTTP Analysis using Wireshark (text)](Illegal_Possession_Images/HTTP_Wireshark_Forensics_1_text.pptx)
   - [HTTP Analysis using Wireshark (image)](Illegal_Possession_Images/HTTP_Wireshark_Forensics_2_image.pptx)
   - [SYN Flood Attack Investigation using tshark](Networking_Forensics/20_HTTP_tshark_Forensics_1_SYN_Flood.pptx)
@@ -437,7 +434,6 @@ Here are some political insights based on the leaked email summaries obtained fr
 ## Contribution
 
 - PIs of the project
-
   - Dr. Frank Xu (Email: fxu at ubalt dot edu)
   - Dr. Debra L. Stanley
   - Dr. Lin Deng; Twoson University
@@ -461,6 +457,8 @@ Here are some political insights based on the leaked email summaries obtained fr
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=frankwxu/digital-forensics-lab&type=Date)](https://star-history.com/#frankwxu/digital-forensics-lab&Date)
+
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/?repos=frankwxu%2Fdigital-forensics-lab&type=date&legend=top-left" frameBorder="0"></iframe>
 
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ksb44j1gmfoc4ht18prk" alt="trackgit-views" />
